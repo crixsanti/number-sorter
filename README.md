@@ -1,6 +1,6 @@
-<h1>Number Draw Project</h1>
+<h1 align="center">Number Draw Project</h1>
 <hr>
-<p>This was a simple and responsive project, where I used the concepts of Math.floor, Math.ceil and Math.random to work in favor of user choice.
+<p align="center">This was a simple and responsive project, where I used the concepts of Math.floor, Math.ceil and Math.random to work in favor of user choice.
 <br>
 Of course with the help of Rodolfo Mori in the DevClub developer training!</p>
 <hr>
@@ -11,3 +11,5 @@ Of course with the help of Rodolfo Mori in the DevClub developer training!</p>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
+
+<img src="https://github.com/crixsanti/sorteador-de-numeros/blob/main/img/Sorteador.png?raw=true">
