@@ -1,11 +1,8 @@
 <h1 align="center">Number Draw Project</h1>
-<hr>
-<p align="center">This was a simple and responsive project, where I used the concepts of Math.floor, Math.ceil and Math.random to work in favor of user choice.
+<p>This was a simple and responsive project, where I used the concepts of Math.floor, Math.ceil and Math.random to work in favor of user choice.
 <br>
 Of course with the help of Rodolfo Mori in the DevClub developer training!</p>
-<hr>
 <h2>Tools and languages ​​I used:</h2>
-<br>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
