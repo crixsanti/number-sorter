@@ -9,5 +9,5 @@ Of course with the help of Rodolfo Mori in the DevClub developer training!</p>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
-<p>Project Link: https://crixsanti.github.io/number-sorter/</p>
+<a href="https://crixsanti.github.io/number-sorter/" target="_blank">CLICK HERE TO VIEW THE PROJECT!</a>
 <img src="https://github.com/crixsanti/sorteador-de-numeros/blob/main/img/Sorteador.png?raw=true">
